@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PakLegal AI: RAG Assistant",
+  "description": "A legal documentation educator tailored for Pakistan Law, utilizing RAG (Retrieval-Augmented Generation) with in-browser vector search and Gemini AI.",
+  "requestFramePermissions": []
+}
